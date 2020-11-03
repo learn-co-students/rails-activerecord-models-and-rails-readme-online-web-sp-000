@@ -1,7 +1,7 @@
 # Active Record Models and Rails
 
 ## Active Record's Role
-
+Had to change smt..
 Active Record is the built-in ORM that Rails utilizes to manage the model
 aspects of an application. What is an ORM? An ORM is an Object Relational
 Mapping system, essentially this is the module that enables your application to
